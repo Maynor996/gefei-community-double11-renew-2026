@@ -70,7 +70,7 @@
 - **10 月 7 日**：注册域名，绑 Cloudflare，上线「两张照片 → 约 20 秒竖屏成片」
 - **10 月 8 日**：出单高峰；本站确认成功单按复盘口径记过，支付地区能看到美、乌、意、瑞等
 
-![zombie 站域名创建 2026-10-07](https://upload.maynor1024.live/file/1793695216852_zombie-domain.png)
+![zombie 站域名创建 2026-10-07](https://upload.maynor1024.live/file/1793697472654_zombie-domain-hidden.png)
 
 *图：AITDK 域名创建证明（上海时间 10 月 7 日晚）。*
 
